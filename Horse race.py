@@ -1,5 +1,3 @@
-#שם : קארם טורי
-#מספר ת''ז : 323984195
 import time
 import random
 horseList=[['Cisco',3,2,115],['Cash',4,2,40],['Fancy',2,1,50],['Blue',10,3,55],
